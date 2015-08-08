@@ -1,0 +1,3 @@
+How do I get the links from the first page and get to the second page from that link?
+How do I get the rest of the data from the second page. I am able to get the links and not anything else?
+How do I display the data organized in the way that the problem is asking for? Currently I have a json file but my program just dumps the data into it without any format.
